@@ -84,5 +84,3 @@
             android:layout_marginBottom="24dp"
             android:layout_gravity="center_horizontal" />
     </com.google.android.material.textfield.TextInputLayout>
-
-    <!-- Diğer üyelik bilg
